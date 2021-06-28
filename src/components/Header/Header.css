@@ -1,0 +1,57 @@
+.headerB {
+    display: flex;
+    justifyContent: center;
+    alignItems: center;
+    backgroundColor: rgb(83, 83, 83);
+    height: 15vh;
+}
+
+/* //--------------------------------------------------------code failed experiments */
+/* #Dali_Sketches_y {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 82px;
+    top: 35px;
+    position: absolute;
+    overflow: visible;
+    width: 267px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tekton Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(224,29,29,1);
+}
+#Dali_Sketches {
+    position: absolute;
+    display: block;
+    width: 375px;
+    height: 812px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Dali Sketches;
+    --web-view-id: Dali_Sketches;
+    --web-scale-on-resize: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+#Header_Line {
+    position: absolute;
+    width: 374.5px;
+    height: 17.314px;
+    left: 0.5px;
+    top: 77.686px;
+    overflow: visible;
+}
+#Header_LinePaths {
+    fill: rgba(0,0,0,1);
+}
+.Header_LinePaths {
+    overflow: visible;
+    position: absolute;
+    width: 374.5px;
+    height: 17.314px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+} */

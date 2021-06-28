@@ -1,0 +1,42 @@
+
+.footerB {
+    display: flex;
+    background-color: White;
+    align-Items: center;
+    height: 15vh;
+
+}
+    /* #Steve_H {
+		left: 89px;
+		top: 779px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Tekton Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(21,131,216,1);
+	}
+	#Footer_Line {
+		position: absolute;
+		width: 374.5px;
+		height: 17.314px;
+		left: 0.5px;
+		top: 742.746px;
+		overflow: visible;
+	}
+	#Footer_LinePaths {
+		fill: rgba(0,0,0,1);
+	}
+	.Footer_LinePaths {
+		overflow: visible;
+		position: absolute;
+		width: 374.5px;
+		height: 17.314px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	} */

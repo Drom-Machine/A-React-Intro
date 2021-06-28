@@ -1,0 +1,378 @@
+.body {
+    background-color: rgb(255, 255, 255);
+}
+.body > div > img {
+    height: 168px;
+    width: 168px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+img {
+    width: 168px;
+    height: 168px;
+}
+
+/* #Square3 {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 188px;
+    top: 550px;
+    overflow: visible;
+} */
+/* #Square3_Image {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Square3_IconPaths {
+    fill: rgba(160,0,160,1);
+    stroke: rgba(0,0,0,0);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Square3_IconPaths {
+    display: none;
+    overflow: visible;
+    position: absolute;
+    width: 32.998px;
+    height: 26.732px;
+    left: 67px;
+    top: 70.118px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Square2 {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 188px;
+    top: 365px;
+    overflow: visible;
+}
+#Square2_Image {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Square2_IconPaths {
+    fill: rgba(160,0,160,1);
+    stroke: rgba(0,0,0,0);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Square2_IconPaths {
+    display: none;
+    overflow: visible;
+    position: absolute;
+    width: 32.998px;
+    height: 26.732px;
+    left: 67px;
+    top: 70.118px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Square1 {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 188px;
+    top: 180px;
+    overflow: visible;
+}
+#Square1_Image {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Square1_IconPaths {
+    fill: rgba(160,0,160,1);
+    stroke: rgba(0,0,0,0);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Square1_IconPaths {
+    display: none;
+    overflow: visible;
+    position: absolute;
+    width: 32.998px;
+    height: 26.732px;
+    left: 67px;
+    top: 70.118px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Button_-_Quit {
+    position: absolute;
+    width: 36.305px;
+    height: 29.464px;
+    left: 329.36px;
+    top: 123.789px;
+    overflow: visible;
+}
+#QuitButtonIcon_-_Oval {
+    fill: rgba(0,0,0,1);
+}
+.QuitButtonIcon_-_Oval {
+    overflow: visible;
+    position: absolute;
+    width: 36.305px;
+    height: 29.464px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#QuitButtonIcon_-_CrossPaths {
+    fill: rgba(0,0,0,1);
+}
+.QuitButtonIcon_-_CrossPaths {
+    overflow: visible;
+    position: absolute;
+    width: 6.755px;
+    height: 6.924px;
+    left: 14.941px;
+    top: 11.031px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Color3_Button_Circle {
+    position: absolute;
+    width: 37.676px;
+    height: 28px;
+    left: 109.963px;
+    top: 433.884px;
+    overflow: visible;
+}
+#C3Button_-_Oval {
+    fill: rgba(22,26,232,1);
+}
+.C3Button_-_Oval {
+    overflow: visible;
+    position: absolute;
+    width: 37.676px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#C3_Icon_-_Arrow {
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 13.431px;
+    top: 8.626px;
+    overflow: visible;
+}
+#C3_Icon_-_ArrowPaths {
+    fill: rgba(22,26,232,1);
+}
+.C3_Icon_-_ArrowPaths {
+    overflow: visible;
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Color2_Button_Circle {
+    position: absolute;
+    width: 34.702px;
+    height: 26.253px;
+    left: 112.937px;
+    top: 618.884px;
+    overflow: visible;
+}
+#C2Button_-_Oval {
+    fill: rgba(29,156,162,1);
+}
+.C2Button_-_Oval {
+    overflow: visible;
+    position: absolute;
+    width: 34.702px;
+    height: 26.253px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#C2_Icon_-_Arrow {
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 11.95px;
+    top: 7.78px;
+    overflow: visible;
+}
+#C2_Icon_-_ArrowPaths {
+    fill: rgba(29,156,162,1);
+}
+.C2_Icon_-_ArrowPaths {
+    overflow: visible;
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Color1_Button_Circle {
+    position: absolute;
+    width: 33.099px;
+    height: 28px;
+    left: 114.734px;
+    top: 248.884px;
+    overflow: visible;
+}
+#C1Button_-_Oval {
+    fill: rgba(113,15,165,1);
+}
+.C1Button_-_Oval {
+    overflow: visible;
+    position: absolute;
+    width: 33.099px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#C1_Icon_-_Arrow {
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 11.151px;
+    top: 8.626px;
+    overflow: visible;
+}
+#C1_Icon_-_ArrowPaths {
+    fill: rgba(113,15,165,1);
+}
+.C1_Icon_-_ArrowPaths {
+    overflow: visible;
+    position: absolute;
+    width: 10.718px;
+    height: 10.186px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Clear {
+    left: 271px;
+    top: 129.253px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tekton Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+#Color_3 {
+    left: 31.974px;
+    top: 623.116px;
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tekton Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(16,156,162,1);
+}
+#Color_2 {
+    left: 29px;
+    top: 438.116px;
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tekton Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(18,26,232,1);
+}
+#Color_1 {
+    left: 32.167px;
+    top: 253.116px;
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tekton Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(113,15,165,1);
+}
+#Drawing_is_the_honesty_of_the_ {
+    left: 24px;
+    top: 171px;
+    position: absolute;
+    overflow: visible;
+    width: 156px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(112,112,112,1);
+}
+
+#DaliIcon {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 115px;
+    top: 12px;
+    overflow: visible;
+}
+#DaliIcon_Image {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#DaliIcon_IconPaths {
+    fill: rgba(21,131,216,1);
+    stroke: rgba(0,0,0,0);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.DaliIcon_IconPaths {
+    display: none;
+    overflow: visible;
+    position: absolute;
+    width: 248.7px;
+    height: 200.334px;
+    left: -33px;
+    top: -97.226px;
+    transform: matrix(1,0,0,1,0,0);
+} */
